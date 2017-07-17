@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\4e81a4272dbd021cb2f3c1d5bbd3de1d58193096\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_774b8fc376f7ce8ecd6a79fc93a76cac57797392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\c32bad12aefd2eab86596c23ca66cd9d7e0d0b0b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1259755b7692d786440602af2b4ce7940ca1dc0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\4acc2440bed21bb7c51d856539f97e05939b6558\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_357f00df28277e0c346cc119cab8f60cf1d556fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\e650e6d0707d73efa9ae98afb021c6a17df6ba44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a45bb8f801cad5fa74c3b458e30f4ec98a2aaff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\e71e5481b807b496d6b4bf860fdac77da6c077d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5db7a158fedb1dd09255c51ae9f928c41e86e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\49eccde52c06cafda0cf84ddec96a5851ac8d171\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ab4314e37ef3cdf3f7426fd38586bb4667bea9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_48b8902fd24377aa1aa6a2bbaf86474c7bc08bd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="588b77cef086397911bc2736950dfe37b560011c">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8856d88dea9a8b1eb40f831ccbd9420b79ff2e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\b2783c975edd54a6582a219e64dc9d884a1ab17b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a3bafa7217cc2602140d4d48995ebe9df1e20db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\7e8ec8fa04943a42361698d1e0a66060c0411d0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce76d3cb6280125d5a0ad0cea237a3793d081b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YOUNGHYEON\.android\build-cache\fea7116f64170f2f9ff25f78b93f188ae190b002\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\YOUNGHYEON\AndroidStudioProjects\silverwatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e35b5adedd9fa0c64c0995c7bf3d08903ef87294\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "696504458555",
+    "firebase_url": "https://silver-watch.firebaseio.com",
+    "project_id": "silver-watch",
+    "storage_bucket": "silver-watch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696504458555:android:edf2cd8bf561c8e6",
+        "android_client_info": {
+          "package_name": "com.silver_watch.jk.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696504458555-c8tomqev6taruhllc339h9nul3r94v2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3m3tojIKkCBRVk7hahfZ1s-d-a5TVPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.younghyeon.silverwatch.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_gravity="center"
+            android:id="@+id/textView1"
+            android:textSize="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="silver watch" />
+
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:id="@+id/webView"
+            android:layout_below="@id/textView1"/>
+
+        <Button
+            android:layout_gravity="center"
+            android:id="@+id/start_button"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/call"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
